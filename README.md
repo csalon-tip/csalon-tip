@@ -7,11 +7,10 @@ Salon,Christian O.
 * Cooking.
 * Playing Basketball
 * Playing online games
-* Watching movies
-**email address:**  
+* Watching movies  
+**email address:**   
 qcosalon@tip.edu.ph  
 **Computer specs**  
 **CPU:** Intel i5- 9300H  
-**Mermory:** 16gb  
-**GPU:** NVIDIA GeForce GTX 1650  
+**Mermory:** 16gb    
 **Storage:** 1TB HDD

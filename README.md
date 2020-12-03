@@ -1,4 +1,4 @@
-##About  
+## About  
 **Name:**  
 Salon,Christian O.  
 **Year Level:**  
@@ -11,6 +11,6 @@ Watching movies
 **email address:**   
 qcosalon@tip.edu.ph  
 **Computer specs**  
-**CPU:** Intel i5- 9300H  
-**Mermory:** 16gb    
-**Storage:** 1TB HDD
+ **CPU:** Intel i5- 9300H  
+ **Mermory:** 16gb    
+ **Storage:** 1TB HDD
